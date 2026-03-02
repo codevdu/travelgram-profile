@@ -45,7 +45,7 @@ O projeto foi construído utilizando tecnologias fundamentais da web:
 Este projeto foi desenvolvido como um exercício prático da formação **Full-stack** da **[Rocketseat](https://www.rocketseat.com.br/)**. 
 
 * **Design e Assets:** Os recursos visuais e o layout original são de propriedade intelectual da Rocketseat.
-* **Desenvolvimento:** Ilana Mallak. **[Ilana Mallak](https://www.linkedin.com/in/ilanamallak/)**
+* **Desenvolvimento:** **[Ilana Mallak](https://www.linkedin.com/in/ilanamallak/)**
 * **Finalidade:** Estudo e demonstração de competências técnicas em desenvolvimento Front-end.
 
 ---
