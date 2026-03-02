@@ -4,7 +4,7 @@
 
 #  Travelgram - Perfil de Viagens
 
-O **Travelgram** é uma interface de perfil de rede social focada em fotografia de viagens. Este projeto foi desenvolvido como parte da formação **Full-stack**, com o objetivo de praticar a estruturação de layouts modernos, semânticos e responsivos utilizando as melhores práticas de HTML e CSS.
+Este é um projeto estático desenvolvido exclusivamente para fins didáticos durante a formação Full-stack da Rocketseat. O objetivo central foi a prática de HTML5 e CSS3, replicando a interface de uma página de perfil para uma rede social fictícia de viagens.
 
 ---
 
